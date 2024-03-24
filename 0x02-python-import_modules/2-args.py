@@ -2,7 +2,7 @@
 
 if __name__ == "__main__":
     import sys
-    
+
     argv_len = len(sys.argv)
     if (argv_len == 1):
         print(f"{argv_len - 1} arguments.")
